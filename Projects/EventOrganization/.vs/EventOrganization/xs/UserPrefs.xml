@@ -1,32 +1,27 @@
 ﻿<Properties StartupConfiguration="{46F22017-EE25-47C9-91F8-3F9BDDF5FE54}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EventOrganization/Models/UserModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventOrganization/Models/AdminModel.cs">
     <Files>
-      <File FileName="EventOrganization/Models/ErrorViewModel.cs" Line="1" Column="1" />
-      <File FileName="EventOrganization/Models/UserModel.cs" Line="12" Column="1" />
-      <File FileName="UserModel.cs.diff" Line="1" Column="4" />
+      <File FileName="EventOrganization/Models/ErrorViewModel.cs" Line="10" Column="1" />
+      <File FileName="EventOrganization/Models/UserModel.cs" Line="10" Column="2" />
+      <File FileName="EventOrganization/Models/AdminModel.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EventOrganization" expanded="True">
-            <Node name="EventOrganization" expanded="True" selected="True">
-              <Node name="Models" expanded="True" />
+            <Node name="EventOrganization" expanded="True">
+              <Node name="Models" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="EventOrganization" expanded="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.EventOrganization PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
